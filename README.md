@@ -26,12 +26,17 @@ Education
     -----------
     **7.6**
 2013-2016
+
 :  **MPC** SRI SRI VENKATESWRA JUNIOR COLLEGE (NANDYAL)
+
     Percentage
     -----------
     **67.1**
+    
 2012-2013
+
 :  **SSC**MODERN HIGH SCHOOL(PRODDATURE)
+
    CGPA
    -----
    
