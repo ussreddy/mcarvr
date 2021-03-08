@@ -53,7 +53,9 @@ Certification
 ---------------
 -sucessfully completed **c language** in nptel
 
+
 -sucessfully completed **web development** in udemy
+
 Personal Info
 ---------------
 -Father Name:uppaluru koti reddy
